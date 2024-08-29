@@ -1,0 +1,6 @@
+[Thu, 29 Aug 2024 12:54:45 GMT] 'GET /api/v1/schools/listSchools?latitude=28.0354&longitude=120.0482' 200 67.756 ms 'PostmanRuntime/7.41.2'
+[Thu, 29 Aug 2024 12:55:55 GMT] 'GET /api/v1/schools/listSchools?longitude=120.0482' 200 51.398 ms 'PostmanRuntime/7.41.2'
+[Thu, 29 Aug 2024 12:58:32 GMT] 'GET /api/v1/schools/listSchools?longitude=120.0482' 400 7.449 ms 'PostmanRuntime/7.41.2'
+[Thu, 29 Aug 2024 12:58:37 GMT] 'GET /api/v1/schools/listSchools?latitude=28.0354' 400 0.758 ms 'PostmanRuntime/7.41.2'
+[Thu, 29 Aug 2024 12:58:41 GMT] 'GET /api/v1/schools/listSchools?latitude=28.0354&longitude=120.0482' 200 40.349 ms 'PostmanRuntime/7.41.2'
+[Thu, 29 Aug 2024 13:15:28 GMT] 'GET /api/v1/schools/listSchools?latitude=28.0354&longitude=120.0482' 200 42.703 ms 'PostmanRuntime/7.41.2'
